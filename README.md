@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aidendes
 - 👀 I’m interested in continuing to grow as a software developer
-- 🌱 I’m currently learning java and software development at GMIT
+- 🌱 I’m currently learning java and software development at GMIT/Atlantic Technological University
 - 📫 @aidendes on twitter, g00398273@atu.ie
 
 <!---
